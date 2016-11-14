@@ -32,6 +32,6 @@ How To Use:
 	Edit .htaccess as necessary.  
 	
 	Create classes in the src directory and then add the routes in the 
-	route.php file. There are some basic classes included to as reference 
+	route.php file. There are some basic classes included as reference 
 	
 	Enjoy!
